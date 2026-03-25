@@ -1,10 +1,10 @@
 # M25CSA029-A2
 
 ##  Project Structure
-* `problem1_word2vec.py`: PDF text extraction, cleaning, and Skip-gram Word2Vec implementation.
-* `problem2_name_gen.py`: Vanilla RNN, BiLSTM, and Attention-based name generation.
+* `nlu_assgn_q1.py`: PDF text extraction, cleaning, and Skip-gram Word2Vec implementation.
+* `nlu_assgn_q2.py`: Vanilla RNN, BiLSTM, and Attention-based name generation.
 * `TrainingNames.txt`: Dataset of 1,000 Indian names (Required for Problem 2).
-* `doc1.pdf`, `doc2.pdf`, `doc3.pdf`: Source documents (Required for Problem 1).
+* `document1.pdf`, `document2.pdf`, `document3.pdf`....: Source documents (Required for Problem 1).
 
 ---
 
